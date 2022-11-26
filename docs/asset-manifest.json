@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drawer-ui/static/css/main.fdd6b77e.css",
+    "main.js": "/drawer-ui/static/js/main.65810510.js",
+    "static/js/787.38403b86.chunk.js": "/drawer-ui/static/js/787.38403b86.chunk.js",
+    "index.html": "/drawer-ui/index.html",
+    "main.fdd6b77e.css.map": "/drawer-ui/static/css/main.fdd6b77e.css.map",
+    "main.65810510.js.map": "/drawer-ui/static/js/main.65810510.js.map",
+    "787.38403b86.chunk.js.map": "/drawer-ui/static/js/787.38403b86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd6b77e.css",
+    "static/js/main.65810510.js"
+  ]
+}
